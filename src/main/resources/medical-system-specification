@@ -1,0 +1,34 @@
+Admins:
+•	login into the system.
+•	add, edit, and delete (CRUD) patients and doctors from the system
+•	approve doctors into the system
+•	add, edit taxes
+
+Doctors:
+•	login into the system.
+•	create an account. - email verification – approve requirement from admins
+•	update their profile information
+•	add laboratory analyses,  observation sheet for their patients
+•	add working hours, vacations, days off
+•	confirm appointments
+•	add appointments
+•	medical history for their patients
+•	add prescriptions
+Patient:
+•	login into the system
+•	create an account – email verification
+•	update their profile information
+•	can view available doctors, their details, invoices, appointments, laboratory analyses, observation sheet
+•	make appointments in a specific date
+•	select different doctors, can see the doctor's specializations, experience, rating
+•	filter doctors by various criteria, such as rating, specialization, experience
+•	can access the analyzes that are done in the hospital laboratory and their price
+•	can add a doctor to favorites list
+•	prescriptions
+
+
+•	The system should send emails to users to confirm appointments and notify them of upcoming appointments
+•	The application should use a scheduler for doctors to mark appointments.
+•	Implement a rating system for doctors, based on patients feedback.
+•	Implement a feature to suggest date for appointment based on a doctor availability
+•	Implement a feature  to send messages to their doctor
